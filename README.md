@@ -10,6 +10,7 @@ Data: Outubro/2019
 Dessa forma:
 	 
 	 javac Fazenda.java
+	 
 	 java Fazenda
 
 2) O programa vai interagir com o usuário que estiver testando, então ele inicia esperando a informação de quantas vezes deseja rodar o programa, ou seja, quantos animais deseja saber todas as informações. Apenas digite um numero e pressione ENTER. 
