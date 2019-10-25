@@ -32,7 +32,7 @@ Ex:
 
 //------------------QUESTÃO 02 - WEB SCRAPER - CLASSWEB --------------------------
 
-1) O programa utiliza a bibliote Jsoup, então é importante anteriormente garantir que você tenha essa biblioteca na sua máquina e na mesma pasta onde o código a ser executado se encontra. Uma vez que isso for garantido, o programa deve ser compilado e executado desta forma:
+1) O programa utiliza a biblioteca Jsoup, então é importante anteriormente garantir que você tenha essa biblioteca na sua máquina e na mesma pasta onde o código a ser executado se encontra. Uma vez que isso for garantido, o programa deve ser compilado e executado desta forma:
 	
 	javac ClassWeb.java -cp jsoup-1.12.1.jar
 	
