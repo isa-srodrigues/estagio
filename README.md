@@ -1,5 +1,7 @@
 ARQUIVO README
+
 Autor(a): Isadora Santos Rodrigues
+
 Data: Outubro/2019
 
 * Arquivo feito com objetivo de instruir a execução dos códigos postados para serem testados*
