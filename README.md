@@ -43,6 +43,7 @@ Ex:
 Você nao precisará interagir com o programa, ele irá printar na tela os dados extraídos da página.
 
 3) Os dados que foram tratados e aparecerão na tela são:
+	
 	Nome do produto.
 	
 	Descrição do produto.
